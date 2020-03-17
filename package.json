@@ -1,0 +1,25 @@
+{
+  "name": "my-logger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterbooy/my-logger.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterbooy/my-logger/issues"
+  },
+  "homepage": "https://github.com/peterbooy/my-logger#readme",
+  "dependencies": {
+    "date-fns": "^2.11.0",
+    "koa": "^2.11.0",
+    "koa-route": "^3.2.0"
+  }
+}
